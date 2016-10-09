@@ -118,10 +118,10 @@
 
 </div>
 <?php
-$servername = "fdb3.biz.nf";
-$username = "2212998_history";
-$password = "1234567890abc";
-$dbname = "2212998_history";
+$servername = "YOU THOUGHT IM THAT DUMB?";
+$username = "YOU THOUGHT IM THAT DUMB?";
+$password = "YOU THOUGHT IM THAT DUMB?";
+$dbname = "YOU THOUGHT IM THAT DUMB?";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
