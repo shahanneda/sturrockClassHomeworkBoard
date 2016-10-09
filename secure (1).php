@@ -138,8 +138,8 @@ if ($_POST['user'] != null && $_POST['pass'] != null) {
 
 }
 
-if($user == "admin"
-&& $pass == "admin")
+if($user == "YOU THOUGHT IM THAT DUMB?"
+&& $pass == "YOU THOUGHT IM THAT DUMB?")
 {
 
         include("change.php");
